@@ -3,7 +3,7 @@ Lab1
 
 So you've chosen your projects. It's time to file down the requirements for the solution you are developing.
 
-Part 1. Creating the System Vision.
+Part 1. Creating the system vision
 ---
 
 At first, one needs to create a representation of the problem description. It can be provided as a table or a list and should include the following sections:
@@ -23,19 +23,15 @@ At first, one needs to create a representation of the problem description. It ca
 - Problem
 
 	*One sentence about the problem. Explain it at the best of your ability. Brevity matters.*
-
 - Concerns
 
-	*Who is encountering the problem now*
+	*Who are the ones encountering the problem now*
+- Consequences
 
-- Concequences
-
-	*What are the concequences of the problem. How does it impede work?*
-
+	*What are the consequences of the problem. How does it impede work?*
 - Successful solution
 
 	*What key points will your solution deliver? Long/short run? 2 sentences*
-
 - Task of the system
 
 	*Therefore, what are you aiming to solve. Keep it as short as possible. 1 sentence.*
@@ -67,7 +63,7 @@ Who uses the system?
 - What expectations do the stakeholders have?
 - What tasks, competencies, and responsibilities do the stakeholders have?
 
-Part 3. Documenting the functional requirements of the system.
+Part 3. Documenting the functional requirements of the system
 ---
 
 The functional requirements of the selected system define the functionality the system is to provide. From these you will later derive the use-case scenarios for your application. In the event that your application interacts withsome third-party services, investigate the feasability of the used services.
@@ -82,7 +78,7 @@ The functional requirements should be provided in the following format:
 
 	*A sentence or two delving into the specific requirement. If the functionality represents a different behavior for different stakeholders, please provide an outline of the difference*
 
-Part 4. Non-functional requirements.
+Part 4. Non-functional requirements
 ---
 
 The non-functional requirement of the system is a constraint imposed on it, which has an architectural value. For instance, one of the systems might need to be developed in 1 month and provide audio assistance for the visually impaired. Since both of these requirements will highly affect the development and the architectural organization of the system, they need to be included and taken into consideration.
@@ -104,7 +100,7 @@ Using the data from the previous steps, design a sketch of the system's main com
 
 The sketch can be provided in the form of a Component Diagram (UML) or a simple blocks-and-arrows notation. In case there is a role relationship between the blocks or a multiplicity, specify that too.
 
-Part 6. Functional Blocks
+Part 6. Functional blocks
 ---
 
 Some of the blocks have related responsibilities. They should be grouped in *functional building blocks*, which will define the modularity of the system. Therefore, the sketch will now change - it will also include the grouping of similar blocks. Where possible, justify the grouping.
@@ -139,7 +135,7 @@ Please describe how does your sketch comply with the following architectural pri
 - Modularity
 - Convention over configuration
 
-Part 9. An architectural sketch.
+Part 9. An architectural sketch
 ---
 
 Redesign your sketch from scratch, ro that it would respect as many of the principles and comply with the selected architectural style. It should contain both the functional building blocks and the smaller modules of the system.
@@ -147,7 +143,7 @@ Redesign your sketch from scratch, ro that it would respect as many of the princ
 No conclusions necessary.
 
 
-Part 10. Have fun.
+Part 10. Have fun!
 ---
 
 
